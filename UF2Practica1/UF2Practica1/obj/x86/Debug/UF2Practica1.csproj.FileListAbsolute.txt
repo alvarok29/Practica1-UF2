@@ -1,0 +1,5 @@
+C:\Users\Alvaro Rodriguez\Source\Repos\UF2Practica1\UF2Practica1\bin\Debug\UF2Practica1.exe
+C:\Users\Alvaro Rodriguez\Source\Repos\UF2Practica1\UF2Practica1\bin\Debug\UF2Practica1.pdb
+C:\Users\Alvaro Rodriguez\Source\Repos\UF2Practica1\UF2Practica1\obj\x86\Debug\UF2Practica1.csprojResolveAssemblyReference.cache
+C:\Users\Alvaro Rodriguez\Source\Repos\UF2Practica1\UF2Practica1\obj\x86\Debug\UF2Practica1.exe
+C:\Users\Alvaro Rodriguez\Source\Repos\UF2Practica1\UF2Practica1\obj\x86\Debug\UF2Practica1.pdb
